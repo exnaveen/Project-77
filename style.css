@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+p{
+    font-size: 20;
+    text-align: left;
+    font-family:monospace
+}
